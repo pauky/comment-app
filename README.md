@@ -1,5 +1,5 @@
 # Common App
-[react小书实战分析——评论功能](http://huziketang.mangojuice.top/books/react/lesson14) 的代码
+[react小书实战分析——评论功能第二阶段](http://huziketang.mangojuice.top/books/react/lesson25) 的代码
 
 ## 启动
 ```
